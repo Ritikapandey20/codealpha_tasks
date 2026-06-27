@@ -118,31 +118,6 @@ docker inspect mywebserver
 docker rm -f mywebserver
 ```
 
----
-
-# 📁 Repository Structure
-
-```
-CodeAlpha-DevOps/
-│
-├── Jenkins-Remoting/
-│   ├── README.md
-│   ├── Report.pdf
-│   ├── Screenshots/
-│   └── Project Files/
-│
-├── Docker-Web-Server/
-│   ├── README.md
-│   ├── Dockerfile
-│   ├── index.html
-│   ├── Report.pdf
-│   └── Screenshots/
-│
-└── README.md
-```
-
----
-
 # 📸 Project Demonstration
 
 The repository includes:
